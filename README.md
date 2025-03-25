@@ -24,8 +24,8 @@ A responsive web application that displays current weather conditions for any ci
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/weather-app.git
-   cd weather-app
+git clone https://github.com/ganeshmhetre14/meesho-clone.git
+cd weather-app
    ```
 2. **Get your OpenWeatherMap API key:**
    - Sign up at [OpenWeatherMap](https://openweathermap.org/)
